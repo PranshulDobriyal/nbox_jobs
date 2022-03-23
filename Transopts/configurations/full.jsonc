@@ -1,0 +1,91 @@
+// this is a JSONc file that supports commenting, during loading we will remove comments
+
+{
+  "models": [
+    {
+      "name": "hf_gpt",
+      "config": {
+        "n_layers": 2,
+        "n_heads": 1,
+        "n_embd": 8
+      }
+    },
+    {
+      "name": "memformer",
+      "config": {
+        "dim": 12,
+        "depth": 2,
+        "heads": 2,
+        "num_memory_slots": 64,
+        "mem_update_attn_heads": 2
+      }
+    },
+    {
+      "name": "expire_span",
+      "config": {}
+    },
+
+    {
+      "name": "xcit",
+      "config": {
+        "dim": 16,
+        "depth": 2,
+        "n_head": 1
+      }
+    },
+    {
+      "name": "bart",
+      "config": {
+        "d_model": 16,
+        "encoder_layers": 1,
+        "decoder_layers": 1,
+        "encoder_ffn_dim": 64,
+        "decoder_ffn_dim": 64,
+        "encoder_attention_heads": 1,
+        "decoder_attention_heads": 1,
+        "n_head": 1
+      }
+    },
+    {
+      "name": "xl_net",
+      "config": {
+        "d_model": 16,
+        "n_layer": 3,
+        "n_head": 1,
+        "d_inner": 64
+      }
+    },
+    {
+      "name": "g_mlp_gpt",
+      "config": {
+        "dim": 8,
+        "depth": 1,
+        "n_head": 1
+      }
+    },
+    {
+      "name": "nystromformer",
+      "config": {
+        "dim": 16,
+        "dim_head": 16,
+        "heads": 1,
+        "depth": 2,
+        "num_landmarks": 32,
+        "pinv_iterations": 6
+      }
+    },
+    {
+      "name": "feedback_transformer",
+      "config": {
+        "dim": 16,
+        "depth": 2,
+        "n_head": 1
+      }
+    }
+  ],
+  "trainer": {
+    "n_steps": 3,
+    "lr": 0.003,
+    "optim": "adam"
+  }
+}

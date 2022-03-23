@@ -1,0 +1,19 @@
+// this is a JSONc file that supports commenting, during loading we will remove comments
+
+{
+  "models": [
+    {
+      "name": "hf_gpt",
+      "config": {
+        "n_layers": 2,
+        "n_heads": 1,
+        "n_embd": 16
+      }
+    }
+  ],
+  "trainer": {
+    "n_steps": 10,
+    "lr": 0.003,
+    "optim": "adam"
+  } 
+}

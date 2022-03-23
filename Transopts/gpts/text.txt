@@ -1,0 +1,277 @@
+lucy says hi  2031 agi and the future of a.i
+
+in the year 2031 there is a new alexa in town and artificial general intelligence is one of its features. what is lucy made of javier ideami jun 1611 min read
+
+video by the author javier ideami  httpsideami.com
+
+lucy anticipates your needs and concerns all throughout the day and is there to share with you the good times and comfort you through the hard ones. she was born from the next revolution that happened after the deep learning one. and what is lucy made of
+
+lets imagine that we are in that year 2031 a symbolic number as lucy may not be feasible until many years after that date and lets entertain a variety of hypotheses about what kind of substrate lucy may have. lets do it
+
+image by the author javier ideami  httpsideami.com
+
+extrapolation and analogies
+
+agi artificial general intelligence refers to the concept of a single system that can achieve general intelligent behaviour similar to ours as opposed to current a.i systems which we could classify as narrow a.i and that are specialized in a variety of specific areas and tasks.
+
+lets begin by considering a key part of the target we are seeking. lets reflect on a specific capability that will be a key part of lucy and that is also essential for an advanced and general intelligence system.
+
+im talking about the ability to extrapolate to connect concepts and areas that are far from each other to create analogies and metaphors.
+
+current deep learning models are great at interpolating. when trained with massive amounts of data they are able to navigate the resulting space producing novel results through interpolation. however one of the key traits of intelligence that is missing is
+
+the capacity to consistently extrapolate beyond the probability distribution of the original data.
+
+of the original data. that lack of extrapolation complicates the creation of analogies and metaphors  the transfer of understanding from one area to another.
+
+ the transfer of understanding from one area to another. understanding itself is very rooted in our capacity to create analogies. as humans we can understand things quickly because we can relate them to other concepts and areas that we already know. a lack of extrapolation complicates even more the emergence of deep understanding.
+
+image by the author javier ideami  httpsideami.com
+
+and now lets review some of the possible complementary and overlapping routes that may take us to lucy.
+
+the gpt connectionist route
+
+the gpt architecture created by openai represents in our exploration the connectionist approach.
+
+powerful artificial neural networks  using in this case the transformer model are trained with massive amounts of data .
+
+ using in this case the transformer model are amounts of . current versions are able to produce very impressive results thanks to their ability to interpolate across the massive space spanned by the learnt function.
+
+thanks to their across the massive space spanned by the learnt function. at this time the gpt model is being applied across many different areas from predicting the continuation of a text to completing missing parts of images or computer code.
+
+to completing missing parts of images or computer code. the problem is that the resulting model is brittle. if you challenge it with certain inputs you will soon notice that it is not reaching deep understanding. it is producing whatever fits in statistical terms with the current prompt.
+
+now there are those that believe that as you keep increasing the scale of gptlike models qualitative improvements will take place and we will see the emergence of extrapolation capabilities as well as other advanced features.
+
+there are also those that state that the a.i community keeps moving the goalpost and that what gpt models can achieve today would have been considered understanding years ago.
+
+so this is one potential route for lucy. one that a part of the a.i community believes in.
+
+photo by alina grubnyak on unsplash
+
+the hybrid route
+
+a number of a.i experts are advocating for a hybrid solution that combines continuous and discrete approaches which we can relate to what is known as the system 1 and system 2 duality.
+
+in his book thinking fast and slow daniel kahneman explains two ways in which our brain produces thoughts
+
+system one is fast frequent automatic and unconscious
+
+is fast frequent automatic and unconscious system two is slow logical conscious analytical infrequent etc
+
+system one is very connected to our senses and our perception of the environment and the information around us. most of what deep learning models do nowadays can be connected to this kind of system.
+
+system two is more connected to our ability to plan reason analyze and work with abstractions and in general to our higher cognitive functions.
+
+zooming away
+
+system 1 can be connected to continuous differentiable spaces .
+
+can be connected to . system 2 is more connected to discrete processes . rules planning logical arguments etc have this discrete nature.
+
+is more connected to . rules planning logical arguments etc have this discrete nature. this duality continuous vs discrete can be found in other forms. for example the particle vs wave duality in quantum mechanics.
+
+and so in relation to the a.i field
+
+one approach is the continuous one using differentiable processes capable of comfortably learning patterns in continuous spaces. this is the domain where deep learning excels.
+
+capable of comfortably learning patterns in continuous spaces. this is the domain where deep learning excels. the other one is the discrete approach systems that make use of categories rules and discrete elements that can function at a higher abstraction level. this is the domain of symbolic ai synthetic programming and so on.
+
+lets consider the alphago project of deepmind. this deep learning architecture was able to beat the world champion of the game of go a really complex and once considered impossible achievement.
+
+alphago combines a convolutional neural network that learns how valuable are the different visual patterns associated with the gameboard and a monte carlo tree search that provides a discrete process on top of the above.
+
+the space of possible movements is too massive. the discrete monte carlo tree search helps to narrow down the possibilities.
+
+it is a simple example of a collaboration between a continuous and a discrete approach. but the proponents of the hybrid model see it going way further and envisage a much more powerful combination of discrete and continuous strategies one that as franois chollet states integrates both approaches with the necessary overlapping between them.
+
+those that believe in a purely connectionist approach have some reservations and wonder about
+
+where is the symbolic or discrete module in the human brain none has been found so far they say.
+
+symboliclike entities and more powerful abstraction capabilities may emerge eventually from a purely connectionist approach they propose.
+
+therefore this route represents the need to go beyond a pure connectionist approach. even yoshua bengio who in the past was quite critical of symbolic ai is now advocating for the need to explore the combination of deep learning and other approaches.
+
+image by the author javier ideami  ideami.com
+
+the embodiment route
+
+it may be that with either of the previous two approaches lucy may still not go beyond a certain point. to get to a more advanced form of intelligence lucy may need to be able to interact with the world in a similar way to how we do it. that is having some form of a body and some way to sense and act on the environment around.
+
+what happens when a child is isolated from the environment that herhis cognitive capabilities suffer. our interaction with the environment seems to be key for our advanced intelligence. of course nobody is saying that the environment should be physical in the way ours is. it could also be virtual. everything may be virtual.
+
+however the level of detail and complexity of the environment matters a lot and we will talk more about this in the next section. thats why the real world with its tremendous complexity may be for quite some time the ideal environment for a.i entities until our simulations become complex enough.
+
+photo by sharon mccutcheon on unsplash
+
+the reinforcement learning route
+
+reinforcement learning is an area of machine learning in which an agent takes actions within an environment while trying to maximize a certain reward. learning takes place as the agent combines exploration and exploitation strategies to build a good action policy that increases the desired reward.
+
+in reward is enough a recent paper by david silver satinder singh doina precup and richard s.sutton rich sutton is one of the grandfathers of reinforcement learning the researchers state that when being trained in a sufficiently complex environment reinforcement learning could be enough to reach artificial general intelligence.
+
+their paper is a philosophical one they dont provide details as to how such a system would be implemented. but they strongly imply that when interacting with a sufficiently complex environment reinforcement learning could produce a lucy.
+
+some are skeptical of such a hypothesis and say that the creation of such a complex and detailed environment may require by itself the existence of a very advanced a.i. system. in any case this is another route being proposed to get to lucy.
+
+photo by bofu shaw on unsplash
+
+the macedonia route
+
+another complementary possibility is that lucy will be born from the combination of multiple approaches. in his book the master algorithm pedro domingos writes about different paradigms connected with learning processes symbolists connectionists evolutionaries bayesians and analogizers.
+
+lucy may be born from combining continuous and discrete approaches with evolutionary algorithms as well as with other strategies like the bayesian one that allows us to take more into account the uncertainty of the world around us.
+
+pedro domingos and colleagues have been experimenting with these kinds of mixtures producing interesting results. their research is ongoing.
+
+photo by jannis brandt on unsplash
+
+the network route
+
+dr. ben goertzel is the founder of singularitynet. this project represents the approach of looking for the emergence of agi through the interaction of multiple ai agents. in singularitynet this is achieved in a decentralized way by making use of blockchain technology so that ai agents can cooperate to solve challenges without any central supervision.
+
+in parallel to singularitynet dr. ben goertzel and his team are developing opencog a new agi architecture that uses a hypergraph knowledge store and combines multiple ai strategies and algorithms from neural networks to evolutionary systems logic engines etc. these systems cooperate and update the knowledge graph as needed.
+
+going beyond or complementing the use of the backpropagation algorithm is one of the points that dr. goertzel emphasizes. he wonders how many neural architectures are being discarded just because they are not suitable to work with the backpropagation algorithm as an example ben tells us that when using evolutionary algorithms inference for fitness estimation and other strategies can be used to guide the evolutionary learning process. those are strategies that are more difficult to carry out when we use backpropagation. therefore opencog combines multiple strategies and algorithms to empower the capabilities of the system.
+
+photo by joshua sortino on unsplash
+
+the penrosehameroff route
+
+nobel prize roger penrose and scientist stuart hameroff are the creators of orchor orchestrated objective reduction a theory that proposes that consciousness is coming from quantum processes within our neurons specifically within their microtubules instead of coming from the connections between those neurons.
+
+even though consciousness is not a mandatory requirement for an advanced form of intelligence this kind of route represents the type of advanced a.i that may be produced by going beyond mere architectures and algorithms to involve deeper aspects of our reality such as quantum processes in the example above.
+
+therefore from this perspective to get to an advanced form of intelligence there may be other deeper pieces of the puzzle that need to be involved in the process.
+
+you have a unique job titlescope in data science and a really interesting educational background continental philosophy in undergrad. how did you become a senior quantitative ux researcher at google
+
+yes i have a quirky background largely driven by doing what seemed interesting at the time. officially i studied business administration and philosophy for undergrad primarily because i wound up taking most of the courses under both majors out of interest. the professors were good and i did a lot of undergrad research work in both departments. then i wound up in a masters program for communications which is where i learned my social science philosophy of science and research methods. after learning that the academic publishing life was not for me i wound up at a boutique interior design consultancy helping them do survey analysis and automation of excelpowerpoint. i eventually learned sql on the job handson in production at an adtech position before moving fully into tech as a data analyst.
+
+for the majority of my career i was just a data analyst at small nyc tech startups. data science as a term was only starting to become a thing during that period. these were small organizations always 150 people often 100. most of the time i was the only data person on the team tasked with making everyone else smarter and more effective with data. that meant i got to work with literally everyone in the company top to bottom. it was a hyperbroad experience and i got exposed to lots of viewpoints problems and people.
+
+quant ux research is a pretty obscure job title in industry with only a few companies officially having the role. i had been looking for work and a friend within google was helping me search through positions the usual data scienceanalyst stuff and happened to find this for me. it fit all the product work i had been doing for years so perfectly i applied and to my surprise got hired. if you have a data science and research skill set but find yourself always drawn to learning about users quantuxr might be for you.
+
+what is your favorite project or a project youre particularly proud of
+
+probably the most important projects i take on arent even officially labeled as a work project  its working with teams and people who have never had quantitative research support before and working with them until they truly understand using data to build. working with them to understand what sorts of questions are best answered with data how to form hypotheses that can be tested learning to understand all the costs and benefits the ins and outs of instrumenting products and setting metrics reporting and monitoring. there are processes that need to be put in place and evolved new habits formed. its always very involved and its always different each time. i learn a bit more each time i do it.
+
+this sort of work takes a surprisingly long time months and sometimes years but the end result is something to be proud of. a team of people will go from not knowing what to do with data given to them into generating hypotheses figuring out ways to measure and test things and actively seeking out research and data to help make the best decisions that they can. they wont be experts at it and will need guidance at times but theyll understand when they need expert help. those individuals will then one day move on to other teams and organizations and spread that experience with them. that alone makes me really proud of this work.
+
+embrace domain knowledge
+
+its messy confusing and often difficult or downright impossible to automate around so no one enjoys learning it. it means learning from experts who have a completely different background and speak a different language. but so much of good data science relies on this knowledge from knowing what data to collect and how to collect it to knowing what questions to ask to finally communicating your results in the best way. domain knowledge is often not emphasized enough in discussions about data science because the complicated details means the answer is always it depends but its never wasted effort.
+
+how do you manage to write so consistently in addition to your work and personal responsibilities how do you find inspiration for articles
+
+i wind up writing consistently once a week because i know myself well enough to know that if i allowed myself to slip and get lazy just this once id rapidly get distracted by all the other things i have going on and get lazy. i swore to myself that id get one out a week and im doing all i can to not disappoint myself. having a drumbeat at least keeps me honest and theres a comforting cadence to know that when friday rolls around i need to start drafting something to make it out the door monday night.
+
+coming up with ideas is always a challenge if you plan on writing steadily. luckily life is full of inspiration. i draw from work that ive been doing things going on around me tweets and memes about data i see during the day questions from readers. if its something that im struggling with or i see someone else is struggling with its a good start to finding something to write about. the work is in taking that seed which can be very small and analyzing it a bit until you can pull an article out of it.
+
+it helps to keep a notebook or an open file to toss germs of ideas into when you come across them. that way you have a stock of material to start from instead of just a blank page.
+
+what kind of writing in dsml would you like to see more of
+
+theres an endless amount of content aimed at new entrants to the field these days. you cant really go a day without finding another variation of a how to become a ds article being published somewhere. it gets eyeballs and metrics because the field is currently red hot but as a practicing community we need more content for us practitioners. we need more people producing content where experienced folk can continue to learn and share and grow.
+
+that means sharing experiences techniques successes and failures all the tools and experiences that make up data science. we could use more posts that translate the latest academic work into laymans terms introduce less common techniques or shed light on quirks and gotchas in extremely common techniques. it also doesnt have to be bleedingedge i created a new ml framework and solved world peace type content either. even if you write about your trusty favorite method that was invented 150 years ago theres tons of people out there who arent familiar with it and can benefit from your handson knowledge. i believe theres lots of room for people to come and write about their experiences and join the community of data science writers.
+
+what are your hopes for the ds community in the next few monthscouple of years
+
+as the world very slowly defrosts out of the covid19 lockdowns faster for some countries and unfortunately slower for others i hope that the data community continues to be as awesome as it has been. well be able to meet each other at conferences and events again some time soon. on top of that i hope that weve learned a thing or two about running awesome online data events and hope some of those also remain because theyre fun awesome and can be very inclusive.
+
+in october 1872 the philosophy faculty of a small university in the bavarian city of erlangen appointed a new young professor. as customary he was requested to deliver an inaugural research programme which he published under the somewhat long and boring title vergleichende betrachtungen ber neuere geometrische forschungen a comparative review of recent researches in geometry. the professor was felix klein only 23 years of age at that time and his inaugural work has entered the annals of mathematics as the erlangen programme 1.
+
+felix klein and his erlangen programme. image wikipediauniversity of michigan historical math collections.
+
+the nineteenth century had been remarkably fruitful for geometry. for the first time in nearly two thousand years after euclid the construction of projective geometry by poncelet hyperbolic geometry by gauss bolyai and lobachevsky and elliptic geometry by riemann showed that an entire zoo of diverse geometries was possible. however these constructions had quickly diverged into independent and unrelated fields with many mathematicians of that period questioning how the different geometries are related to each other and what actually defines a geometry.
+
+the breakthrough insight of klein was to approach the definition of geometry as the study of invariants or in other words structures that are preserved under a certain type of transformations symmetries. klein used the formalism of group theory to define such transformations and use the hierarchy of groups and their subgroups in order to classify different geometries arising from them. thus the group of rigid motions leads to the traditional euclidean geometry while affine or projective transformations produce respectively the affine and projective geometries. importantly the erlangen programme was limited to homogeneous spaces 2 and initially excluded riemannian geometry.
+
+kleins erlangen programme approached geometry as the study of properties remaining invariant under certain types of transformations. 2d euclidean geometry is defined by rigid transformations modeled as the isometry group that preserve areas distances and angles and thus also parallelism. affine transformations preserve parallelism but neither distances nor areas. finally projective transformations have the weakest invariance with only intersections and crossratios preserved and correspond to the largest group among the three. klein thus argued that projective geometry is the most general one.
+
+the impact of the erlangen program on geometry and mathematics broadly was very profound. it also spilled to other fields especially physics where symmetry considerations allowed to derive conservation laws from the first principles  an astonishing result known as noethers theorem 3. it took several decades until this fundamental principle  through the notion of gauge invariance in its generalised form developed by yang and mills in 1954  proved successful in unifying all the fundamental forces of nature with the exception of gravity. this is what is called the standard model and it describes all the physics we currently know. we can only repeat the words of a nobelwinning physicist philip anderson 4 that
+
+it is only slightly overstating the case to say that physics is the study of symmetry.
+
+we believe that the current state of affairs in the field of deep representation learning is reminiscent of the situation of geometry in the nineteenth century on the one hand in the past decade deep learning has brought a revolution in data science and made possible many tasks previously thought to be beyond reach  whether computer vision speech recognition natural language translation or playing go. on the other hand we now have a zoo of different neural network architectures for different kinds of data but few unifying principles. as a consequence it is difficult to understand the relations between different methods which inevitably leads to the reinvention and rebranding of the same concepts.
+
+deep learning today a zoo of architectures few unifying principles. animal images shutterstock.
+
+geometric deep learning is an umbrella term we introduced in 5 referring to recent attempts to come up with a geometric unification of ml similar to kleins erlangen programme. it serves two purposes first to provide a common mathematical framework to derive the most successful neural network architectures and second give a constructive procedure to build future architectures in a principled way.
+
+supervised machine learning in its simplest setting is essentially a function estimation problem given the outputs of some unknown function on a training set e.g. labelled dog and cat images one tries to find a function f from some hypothesis class that fits well the training data and allows to predict the outputs on previously unseen inputs. in the past decade the availability of large highquality datasets such as imagenet coincided with growing computational resources gpus allowing to design rich function classes that have the capacity to interpolate such large datasets.
+
+neural networks appear to be a suitable choice to represent functions because even the simplest architecture like the perceptron can produce a dense class of functions when using just two layers allowing to approximate any continuous function to any desired accuracy  a property known as universal approximation 6.
+
+multilayer perceptrons are universal approximators with just one hidden layer they can represent combinations of step functions allowing to approximate any continuous function with arbitrary precision.
+
+the setting of this problem in lowdimensions is a classical problem in approximation theory that has been studied extensively with precise mathematical control of estimation errors. but the situation is entirely different in high dimensions one can quickly see that in order to approximate even a simple class of e.g. lipschitz continuous functions the number of samples grows exponentially with the dimension  a phenomenon known colloquially as the curse of dimensionality. since modern machine learning methods need to operate with data in thousands or even millions of dimensions the curse of dimensionality is always there behind the scenes making such a naive approach to learning impossible.
+
+illustration of the curse of dimensionality in order to approximate a lipschitzcontinuous function composed of gaussian kernels placed in the quadrants of a ddimensional unit hypercube blue with error  one requires 1 samples red points.
+
+this is perhaps best seen in computer vision problems like image classification. even tiny images tend to be very highdimensional but intuitively they have a lot of structure that is broken and thrown away when one parses the image into a vector to feed it into the perceptron. if the image is now shifted by just one pixel the vectorised input will be very different and the neural network will need to be shown a lot of examples in order to learn that shifted inputs must be classified in the same way 7.
+
+fortunately in many cases of highdimensional ml problems we have an additional structure that comes from the geometry of the input signal. we call this structure a symmetry prior and it is a general powerful principle that gives us optimism in dimensionalitycursed problems. in our example of image classification the input image x is not just a ddimensional vector but a signal defined on some domain  which in this case is a twodimensional grid. the structure of the domain is captured by a symmetry group   the group of 2d translations in our example  which acts on the points on the domain. in the space of signals  the group actions elements of the group  on the underlying domain are manifested through what is called the group representation   in our case it is simply the shift operator a dd matrix that acts on a ddimensional vector 8.
+
+illustration of geometric priors the input signal image x is defined on the domain grid  whose symmetry translation group  acts in the signal space through the group representation  shift operator. making an assumption on how the functions f e.g. image classifier interacts with the group restricts the hypothesis class.
+
+the geometric structure of the domain underlying the input signal imposes structure on the class of functions f that we are trying to learn. one can have invariant functions that are unaffected by the action of the group i.e. fxfx for any  and x. on the other hand one may have a case where the function has the same input and output structure and is transformed in the same way as the inputsuch functions are called equivariant and satisfy fxfx 9. in the realm of computer vision image classification is a good illustration of a setting where one would desire an invariant function e.g. no matter where a cat is located in the image we still want to classify it as a cat while image segmentation where the output is a pixelwise label mask is an example of an equivariant function the segmentation mask should follow the transformation of the input image.
+
+another powerful geometric prior is scale separation. in some cases we can construct a multiscale hierarchy of domains  and  in the figure below by assimilating nearby points and producing also a hierarchy of signal spaces that are related by a coarsegraining operator p. on these coarse scales we can apply coarsescale functions. we say that a function f is locally stable if it can be approximated as the composition of the coarsegraining operator p and the coarsescale function ffp. while f might depend on longrange dependencies if it is locally stable these can be separated into local interactions that are then propagated towards the coarse scales 10.
+
+illustration of scale separation where we can approximate a finelevel function f as the composition ffp of a coarselevel function f and a coarsegraining operator p.
+
+these two principles give us a very general blueprint of geometric deep learning that can be recognised in the majority of popular deep neural architectures used for representation learning a typical design consists of a sequence of equivariant layers e.g. convolutional layers in cnns possibly followed by an invariant global pooling layer aggregating everything into a single output. in some cases it is also possible to create a hierarchy of domains by some coarsening procedure that takes the form of local pooling.
+
+geometric deep learning blueprint.
+
+this is a very general design that can be applied to different types of geometric structures such as grids homogeneous spaces with global transformation groups graphs and sets as a particular case and manifolds where we have global isometry invariance and local gauge symmetries. the implementation of these principles leads to some of the most popular architectures that exist today in deep learning convolutional networks cnns emerging from translational symmetry graph neural networks deepsets 11 and transformers 12 implementing permutation invariance gated rnns such as lstm networks that are invariant to time warping 13 and intrinsic mesh cnns 14 used in computer graphics and vision that can be derived from gauge symmetry.
+
+the 5g of geometric deep learning grids group homogeneous spaces with global symmetries graphs and sets as a particular case and manifolds where geometric priors are manifested through global isometry invariance which can be expressed using geodesics and local gauge symmetries.
+
+in future posts we will be exploring in further detail the instances of the geometric deep learning blueprint on the 5g 15. as a final note we should emphasize that symmetry has historically been a key concept in many fields of science of which physics as already mentioned in the beginning is key. in the machine learning community the importance of symmetry has long been recognised in particular in the applications to pattern recognition and computer vision with early works on equivariant feature detection dating back to shunichi amari 16 and reiner lenz 17. in the neural networks literature the group invariance theorem for perceptrons by marvin minsky and seymour papert 18 put fundamental limitations on the capabilities of singlelayer perceptrons to learn invariants. this was one of the primary motivations for studying multilayer architectures 1920 which had ultimately led to deep learning.
+
+original post
+
+in post 1280 we used a correlation for the fanning friction factor for turbulent flow in a pipe. for laminar flow re  3000 there is another correlation that is commonly used ff  16re. unfortunately the correlations for laminar flow and turbulent flow have different values at the transition that should occur at re  3000. this discontinuity can cause a lot of problems for numerical solvers that rely on derivatives.
+
+today we examine a strategy for smoothly joining these two functions. first we define the two functions.
+
+import numpy as np from scipy.optimize import fsolve import matplotlib.pyplot as plt def fflaminar re return 16.0  re def ffturbulentunvectorized re  nikuradse correlation for turbulent flow  1np.sqrtf  4.0np.log10renp.sqrtf0.4  we have to solve this equation to get f def func f return 1np.sqrtf  4.0np.log10renp.sqrtf0.4 fguess  0.01 f  fsolvefunc fguess return f  this enables us to pass vectors to the function and get vectors as  solutions ffturbulent  np.vectorizeffturbulentunvectorized
+
+now we plot the correlations.
+
+re1  np.linspace500 3000 f1  fflaminarre1 re2  np.linspace3000 10000 f2  ffturbulentre2 plt.figure1 plt.clf plt.plotre1 f1 label laminar  plt.plotre2 f2 label turbulent  plt.xlabel re  plt.ylabel ff  plt.legend plt.savefig imagessmoothtransitions1.png 
+
+     matplotlib.figure.figure object at 0x051ff630 matplotlib.lines.line2d object at 0x05963c10 matplotlib.lines.line2d object at 0x0576dd70 matplotlib.text.text object at 0x0577cff0 matplotlib.text.text object at 0x05798790 matplotlib.legend.legend object at 0x05798030
+
+you can see the discontinuity at re  3000. what we need is a method to join these two functions smoothly. we can do that with a sigmoid function. sigmoid functions
+
+a sigmoid function smoothly varies from 0 to 1 according to the equation sigmax  frac11  exx0alpha. the transition is centered on x0 and alpha determines the width of the transition.
+
+x  np.linspace44 y  1.0  1  np.expx  0.1 plt.figure2 plt.clf plt.plotx y plt.xlabel x  plt.ylabel y  plt.title sigmax  plt.savefig imagessmoothtransitionssigma.png 
+
+ matplotlib.figure.figure object at 0x0596cf10 matplotlib.lines.line2d object at 0x05a26d90 matplotlib.text.text object at 0x059a6050 matplotlib.text.text object at 0x059af0d0 matplotlib.text.text object at 0x059bea30
+
+if we have two functions f1x and f2x we want to smoothly join we do it like this fx  1sigmaxf1x  sigmaxf2x. there is no formal justification for this form of joining it is simply a mathematical convenience to get a numerically smooth function. other functions besides the sigmoid function could also be used as long as they smoothly transition from 0 to 1 or from 1 to zero.
+
+def fanningfrictionfactor re combined continuous correlation for the fanning friction factor. the alpha parameter is chosen to provide the desired smoothness. the transition region is about  4alpha. the value 450 was selected to reasonably match the shape of the correlation function provided by morrison see last section of this file sigma  1.  1  np.expre  3000.0  450.0 f  1sigma  fflaminarre  sigma  ffturbulentre return f re  np.linspace50010000 f  fanningfrictionfactorre  add data to figure 1 plt.figure1 plt.plotref label smooth transition  plt.xlabel re  plt.ylabel ff  plt.legend plt.savefig imagessmoothtransitions3.png 
+
+... ... ... ... ... ... ... ...     ... matplotlib.figure.figure object at 0x051ff630 matplotlib.lines.line2d object at 0x05786310 matplotlib.text.text object at 0x0577cff0 matplotlib.text.text object at 0x05798790 matplotlib.legend.legend object at 0x05a302b0
+
+you can see that away from the transition the combined function is practically equivalent to the original two functions. that is because away from the transition the sigmoid function is 0 or 1. near re  3000 is a smooth transition from one curve to the other curve.
+
+morrison derived a single function for the friction factor correlation over all re f  frac0.0076leftfrac3170reright0.1651  leftfrac3171reright7.0  frac16re. here we show the comparison with the approach used above. the friction factor differs slightly at high re because morrisons is based on the prandlt correlation while the work here is based on the nikuradse correlation. they are similar but not the same.
+
+ add this correlation to figure 1 h  plt.plotre 16.0re  0.0076  3170  re0.165  1  3170.0  re7 ax  plt.gca handles labels  ax.getlegendhandleslabels handles.appendh labels.append morrison  ax.legendhandles labels plt.savefig imagessmoothtransitionsmorrison.png 
+
+       matplotlib.legend.legend object at 0x05a5aeb0
+
+1 summary the approach demonstrated here allows one to smoothly join two discontinuous functions that describe physics in different regimes and that must transition over some range of data. it should be emphasized that the method has no physical basis it simply allows one to create a mathematically smooth function which could be necessary for some optimizers or solvers to work.
+
+copyright c 2013 by john kitchin. see the license for information about copying.
+
+orgmode source
